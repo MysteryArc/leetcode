@@ -1,1 +1,3 @@
 code/exefile/
+.vscode/tasks.json
+code/test.cpp
