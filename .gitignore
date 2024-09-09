@@ -1,5 +1,4 @@
-code/exefile/
-.vscode/tasks.json
+code/build
 code/test.cpp
-code/.vscode
 code/exefile
+/.vscode
