@@ -2,3 +2,4 @@ code/build
 code/test.*
 code/exefile
 /.vscode
+.DS_Store
